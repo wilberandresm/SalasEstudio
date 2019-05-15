@@ -1,0 +1,41 @@
+
+body::-webkit-scrollbar {
+    width: 8px;
+  }
+  body::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: #dfdfdf;
+    border-radius: 10px;
+  }
+  
+.fondo{
+   
+    height: 100vh;/*100%del dispositivo*/
+    background: url('https://mundonoticias.com.co/wp-content/uploads/2019/05/IMG-20190430-WA0222-1170x700.jpg');
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.verde{
+    background: rgba(50, 238, 50, 0.432);
+}
+.top-nav-collapse{
+    background: rgba(50, 238, 50, 0.774) !important;
+}
+.formulario{
+    margin:  auto;
+    width: 320px;
+  background-color: rgba(255, 255, 255, 0.863);
+    -webkit-box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+    box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+  border-radius: 9px 9px 9px 9px;
+  -moz-border-radius: 9px 9px 9px 9px;
+  -webkit-border-radius: 9px 9px 9px 9px;
+  border: 0px solid #000000;
+
+}

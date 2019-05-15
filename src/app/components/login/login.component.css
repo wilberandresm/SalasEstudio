@@ -1,0 +1,47 @@
+
+ 
+  webkit,.jumbotron{
+      margin: 50px auto;
+      width: 320px;
+    background-color: white;
+      -webkit-box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+      -moz-box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+      box-shadow: -1px 6px 23px 1px rgba(0,0,0,0.75);
+    border-radius: 9px 9px 9px 9px;
+    -moz-border-radius: 9px 9px 9px 9px;
+    -webkit-border-radius: 9px 9px 9px 9px;
+    border: 0px solid #000000;
+  }
+  input[type="submit"]{
+      margin-top: 10px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h2{
+    margin: 10px 0;
+      font-family: inherit;
+      font-weight: 700;
+      line-height: 20px;
+  }
+  input[type="checkbox"] {
+    margin-top: 10px;
+  }
+  #name-and-slogan a{
+    margin: 10px 0;
+      font-weight: 700;
+      line-height: 20px;
+      color: #2a7d4e;
+  
+  }
+  .fondo{
+    background:url('http://www.sipinas.com/wp-content/uploads/2018/01/6.jpg');
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .centrar{
+    margin:10px auto;
+    display:block;
+  }
